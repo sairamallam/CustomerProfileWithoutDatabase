@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "customername": "priya",
+    "phoneno": 789789,
+    "role": "Admin"
+  },
+   {
+    "id": 2,
+    "customername": "hari",
+    "phoneno": 234234,
+    "role": "It"
+  }
+  ,
+   {
+    "id": 3,
+    "customername": "suma",
+    "phoneno": 456456,
+    "role": "It"
+  }
+]
